@@ -8,3 +8,5 @@ A empresa FabProdresponsável fabrica e distribuir uma família de produtos de l
 
 # Dados Explorados
 
+[Dados Oriundos do ERP]([URL do arquivo](https://github.com/Tomasi/AnaliseExploratoriaVendas/blob/master/dados_vendas.xlsx))
+
