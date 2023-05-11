@@ -18,6 +18,6 @@ Olhando para as informações contidas, considerando todos os seus produtos vend
 ![graficoBarras](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/eb559b49-3f64-49b9-b6c7-5518f1efd3f9)
 
 
-Os dados explorados possuem datação histórica de vendas, ou seja, conseguimos identificar a data das vendas, assim podemos compreender a evolução ou caída das vendas históricamente através desse gráfico de linhas.
+Os dados explorados possuem data de venda, ou seja, assim podemos compreender a evolução ou caída das vendas.
 
 ![GraficoLinha](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/c438b52f-e0c1-492d-9b21-8fb9ff1ed7c1)
