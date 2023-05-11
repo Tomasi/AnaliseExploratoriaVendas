@@ -15,4 +15,4 @@ Dados Oriundos do ERP ([URL do arquivo](https://github.com/Tomasi/AnaliseExplora
 Olhando para as informações contidas, considerando todos os seus produtos vendidos e distribuídos por região. Podemos entender através desse gráfico de barras o volume de vendas por região.
 
 
-![graficoBarras]([https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/b541086e-1083-412c-86e1-86c75d216e08](https://github.com/Tomasi/AnaliseExploratoriaVendas/blob/master/graficoBarras.png))
+![graficoBarras](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/eb559b49-3f64-49b9-b6c7-5518f1efd3f9)
