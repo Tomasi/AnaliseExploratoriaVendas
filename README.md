@@ -10,3 +10,8 @@ A empresa FabProdresponsável fabrica e distribuir uma família de produtos de l
 
 Dados Oriundos do ERP ([URL do arquivo](https://github.com/Tomasi/AnaliseExploratoriaVendas/blob/master/dados_vendas.xlsx))
 
+# Descrição e Estatística
+
+Olhando para as informações contidas, considerando todos os seus produtos vendidos e distribuídos por região. Podemos entender através desse gráfico de barras o volume de vendas por região.
+
+https://github.com/Tomasi/AnaliseExploratoriaVendas/blob/master/graficoBarras.png
