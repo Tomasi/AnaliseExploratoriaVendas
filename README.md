@@ -22,7 +22,7 @@ Os dados explorados possuem data de venda, ou seja, assim podemos comprender e a
 
 ![GraficoLinha](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/c438b52f-e0c1-492d-9b21-8fb9ff1ed7c1)
 
-Começamos a compreender o poder dos dados obtidos, já conseguimos entender o volume de vendas para cada região, assim como a consistência histórica de vendas no perído de 05/01/2019 à 28/12/2022. Complementando nossa análise até o momento, acrescento nosso histograma de vendas, com ele podemos ententer em uma frequência o quanto um valor de venda é fechado na negociação, podendo compreender o preço mais negociado.
+Começamos a compreender o poder dos dados obtidos, já conseguimos entender o volume de vendas para cada região, assim como a consistência histórica de vendas no perído de 05/01/2019 à 28/12/2022. Complementando nossa análise até o momento, acrescento nosso histograma de vendas, com ele podemos ententer a frequência com que um valor de venda é fechado na negociação, podendo compreender o preço mais negociado.
 
 ![histograma](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/88d1fa27-71ce-4849-a2b7-f7afecd33cd1)
 
