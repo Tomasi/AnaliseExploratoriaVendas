@@ -41,3 +41,8 @@ Idealmente seria interessantes que ela contesse uma massa maior de dados, com ma
 
 ![GraficoDeDispersao](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/ca890f47-a65a-4895-b013-c02acdbeba21)
 
+# Conclusão
+
+Durante nossa análise exploratória e aplicação de um modelo preditivo de regressão linear, pudemos obter algumas informações relevantes sobre as vendas da empresa FabProd e outras afim de entender as oportunidades de vendas.
+Iniciamos explorando os dados de vendas por região, analisando medidas de tendência central, como média, mediana e moda, bem como a dispersão dos dados por meio do desvio padrão. Identificamos que a região Sudeste apresentou a maior média de vendas, enquanto a região Norte teve a menor média. Além disso, observamos uma variabilidade maior nas vendas da região Sul.
+
