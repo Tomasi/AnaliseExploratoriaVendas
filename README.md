@@ -30,7 +30,7 @@ Complementado nossa visão, com o gráfico de bloxplot podemos compreender qual 
 
 ![boxplot](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/4594abea-f3d8-420d-88cb-4add9a20bf26)
 
-Olhando até o momento, entendemos quais regiões possuem um maior poder de vendas, a frequência dos valores e o preços mais procurados. Agora vamos entender qual a proporção de cada produto nas vendas totais através deste gráfico de pizza.
+Olhando até o momento, entendemos quais regiões possuem um maior poder de vendas, a frequência dos valores e os preços mais procurados. Agora vamos entender qual a proporção de cada produto nas vendas totais através deste gráfico de pizza.
 
 ![GraficoPizza](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/4dcd8a02-3a22-4bb8-ab68-c51f72af508d)
 
