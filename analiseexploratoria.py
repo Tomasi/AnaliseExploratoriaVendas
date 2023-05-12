@@ -45,8 +45,6 @@ df = df[['Data', 'Região', 'Empresa', 'Produto', 'Custo', 'Vendas', 'Vlr.Venda'
 df['Data'] = pd.to_datetime(df['Data'], format='%d/%m/%Y') 
 df = df.sort_values('Data')
 
-print(df.head())  # Visualizar as primeiras linhas do DataFrame com a coluna de data
-
 # Exportar o DataFrame para um arquivo Excel
 df.to_excel('dados_vendas.xlsx', index=False)
 
