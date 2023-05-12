@@ -36,7 +36,7 @@ Olhando até o momento, entendemos quais regiões possuem um maior poder de vend
 
 # Predição
 
-Nossa base de dados contemplam algumas informações úteis para o entendimento do modelo de negócio, com valores reais de venda por região e produto. No entando para gerar um modelo de predição, ou seja, produrar prever futuras vendas com base em dados históricos, ela acaba não contendo dados sufuciente ou não possuim informações relevantes para tentar predizer um modelo.
+Nossa base de dados comtempla algumas informações úteis para o entendimento do modelo de negócio, com valores reais de venda por região e produto. No entando para gerar um modelo de predição, ou seja, produrar prever futuras vendas com base em dados históricos, ela acaba não contendo dados sufuciente ou não possuim informações relevantes para tentar predizer um modelo.
 Idealmente seria interessantes que ela contesse uma massa maior de dados, com mais detalhes de vendas, tais dados poriam influenciar previsão de vendas futuras, porém, para demonstrar a dispersão de dados, o gráfico de dispersão gerado através de dados atuais
 
 ![GraficoDeDispersao](https://github.com/Tomasi/AnaliseExploratoriaVendas/assets/61890715/ca890f47-a65a-4895-b013-c02acdbeba21)
