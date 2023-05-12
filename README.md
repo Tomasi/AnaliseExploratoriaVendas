@@ -1,6 +1,6 @@
 # Análise Exploratória 
 
-Para essa problemática será criada uma massa de dados com dados ficticíos com o intuíto de explorar algumas ferramentas de análise.
+Para essa problemática será criada uma massa de dados com dados ficticios com o intuíto de explorar algumas ferramentas de análise.
 
 # Empresa e sua expansão
 
